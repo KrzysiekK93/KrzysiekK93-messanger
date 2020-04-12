@@ -1,0 +1,31 @@
+{
+  "name": "messanger",
+  "version": "1.0.0",
+  "description": "Simple aplication to comunicate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrzysiekK93/KrzysiekK93-messanger.git"
+  },
+  "keywords": [
+    "Messanger",
+    "express",
+    "node"
+  ],
+  "author": "Krzysztof Kowalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrzysiekK93/KrzysiekK93-messanger/issues"
+  },
+  "homepage": "https://github.com/KrzysiekK93/KrzysiekK93-messanger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
